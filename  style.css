@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(184, 5, 5);
+}
+
+footer{
+    background-color: black;
+    color: bisque;
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+
+}
+   footer p{
+    text-align: center;
+    font-size: 0.6rem;
+    
+   }
